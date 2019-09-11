@@ -1,7 +1,7 @@
 # PSL_VNIT_ML_PROJ
 ----
 
-**Contributer's**:
+**Contributor's**:
 1. [Sathishreddy Gathpa](sathishreddygathpa@gmail.com)
 2. [Pranay Bunari](pranaybunari@gmail.com)
 3. [Eshwar Koride](eshwarkoride7799@gmail.com)
