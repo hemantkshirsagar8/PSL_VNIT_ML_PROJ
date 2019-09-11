@@ -30,7 +30,7 @@ NLP Analytics - Entity Knowledge Graph|Creating NLP algorithm to extract Knowled
 
 ----
 
-Sathishreddy Gathpa:
+As per 'Sathishreddy Gathpa' on '11th Sep 19' :
 >So we have finally came to a conclusion that  we take up a real life unsolved problem and model it from scratch and explaining it through AI  as our project. 
 >We find this interesting and also we get a chance to dig deeper into the same instead of explaining the problems which have been already solved.
 
