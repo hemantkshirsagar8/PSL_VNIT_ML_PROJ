@@ -30,7 +30,7 @@ NLP Analytics - Entity Knowledge Graph|Creating NLP algorithm to extract Knowled
 
 ----
 
-**System Pre-requisite**:
+**System pre-requisite**:
 1. Windows 10/Ubuntu 18.04 (As per you prefer.)
 2. 64 bit >16GB RAM
 3. Latest Anaconda
