@@ -30,6 +30,16 @@ NLP Analytics - Entity Knowledge Graph|Creating NLP algorithm to extract Knowled
 
 ----
 
+**System Pre-requisite**:
+1. Windows 10/Ubuntu 18.04 (As per you prefer.)
+2. 64 bit >16GB RAM
+3. Latest Anaconda
+4. Python 3.6
+5. PyCharm
+6. Jupyter Notebook (comes with Anaconda)
+
+----
+
 As per 'Sathishreddy Gathpa' on '11th Sep 19' :
 >So we have finally came to a conclusion that  we take up a real life unsolved problem and model it from scratch and explaining it through AI  as our project. 
 >We find this interesting and also we get a chance to dig deeper into the same instead of explaining the problems which have been already solved.
