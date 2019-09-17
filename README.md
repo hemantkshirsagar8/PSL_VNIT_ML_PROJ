@@ -47,3 +47,16 @@ As per 'Sathishreddy Gathpa' on '11th Sep 19' :
 
 ----
 
+**Lets implement code**:
+
+1. Setup environment in your machine Or can use [google colab](https://colab.research.google.com/) **(Colab is recommended due to GPU support and its free.)** 
+2. Practice, implement and understand SHAP, as mentioned [here](https://github.com/slundberg/shap)
+3. In above link, SHAP implementation and examples are provided for for xgboost, tensorflow object classification and  VGG16 model.
+4. Implement SHAP or LIME for below algorithms, as per your choice of use-cases;
+  4.1. Linear regression.
+  4.2. Logistic regression.
+  4.3. Decision trees/Random Forest.
+  4.4. SVM
+  4.5. Object detection/classification.
+5. Check if existing model can be customised using SHAP/LIME.
+6. Explore, if you could find some other methods for Explainable.AI other than SHAP/LIME.
