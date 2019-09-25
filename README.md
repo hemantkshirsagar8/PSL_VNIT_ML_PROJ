@@ -28,6 +28,14 @@ NLP Analytics - Entity Knowledge Graph|Creating NLP algorithm to extract Knowled
 5. [MLFlow](https://mlflow.org/docs/latest/quickstart.html)
 6. [Why MLFlow?](https://www.youtube.com/watch?v=QJW_kkRWAUs)
 
+
+**ML References**:
+1. [Siraj Raval YouTube playlist](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A/playlists)
+2. [Bhavesh Bhatt YouTube Playlist](https://www.youtube.com/channel/UC8ofcOdHNINiPrBA9D59Vaw/playlists)
+3. [ML YouTube Playlist](https://www.youtube.com/channel/UCyHta2dyCTkf29AB67AYn7A/playlists)
+4. [Udemy: Machine Learning A-Z by Kirill Eremenko](https://www.udemy.com/machinelearning/learn/lecture/6087180#overview)
+5. [Udemy: ML Feature Selection by Soledad Galli](https://www.udemy.com/feature-selection-for-machine-learning/learn/lecture/9341678#overview)
+
 ----
 
 **System pre-requisite**:
